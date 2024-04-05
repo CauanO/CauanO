@@ -1,24 +1,23 @@
-## Olá, Eu sou o Cauan Oliveira!!
+## Fala, galera!! 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-  
-  ##
- 
-<div>
-  <a href = "mailto:cauanpdr123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/cauan-oliveira-935a48231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
-</div>
+Eu me chamo Cauan, e este é o meu perfil!
 
-##
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=8566ff&color=0C0B12)](https://www.linkedin.com/in/cauan-oliveira-935a48231/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=8566ff&color=0C0B12)](https://www.instagram.com/cauan.ollive/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=8566ff&color=0C0B12)](malito:cauanpdr123@gmail.com/)
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CauanO&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="CauanO's Stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CauanO&theme=dark&hide_border=true" alt="CauanO's Streak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanO&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="CauanO's Top Languages">
-</div>
+<hr/>
+
+### Sobre mim:
+
+Desenvolvedor motivado por desafios e com espírito empreendedor com alta capacidade de aprendizado e busca constante por evolução profissional.
+
+![CauanO's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CauanO&theme=merko&hide_border=true)
+![CauanO's Stats](https://github-readme-stats.vercel.app/api?username=CauanO&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+
+### Tecnologias:
+
+MySQL | HTML | CSS | JavaScript | Node
+
+![CauanO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanO&theme=merko&show_icons=true&hide_border=true&layout=compact)
