@@ -1,4 +1,4 @@
-## Fala, galera!! 👋
+## Fala galera!! 👋
 
 Eu me chamo Cauan, e este é o meu perfil!
 
