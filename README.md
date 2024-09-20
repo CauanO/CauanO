@@ -15,7 +15,4 @@ Desenvolvedor motivado por desafios e com espírito empreendedor com alta capaci
 
 
 ### Tecnologias:
-
-MySQL | HTML | CSS | JavaScript | Node
-
 ![CauanO's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanO&theme=merko&show_icons=true&hide_border=true&layout=compact)
