@@ -29,7 +29,7 @@ Eu sou **Cauan**, um **Futuro Software Engineer** apaixonado por desafios e pelo
 ### 📊 Status do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanO&theme=tokyonight&hide_border=true" alt="Ebert's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanO&theme=tokyonight&hide_border=true" alt="Cauan's Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=CauanO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Cauan's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanO&theme=tokyonight&layout=compact&hide_border=true" alt="Cauan's Top Languages" />
 </div>
@@ -41,10 +41,18 @@ Eu sou **Cauan**, um **Futuro Software Engineer** apaixonado por desafios e pelo
 - **POO com Java**
 - **Desenvolvimento de APIs Avançadas**
 - **Integração entre Banco de Dados e Back-end**
-- **Raciocionio Logico**
+- **Raciocínio Lógico**
 - **Engenharia de Software**
 - **Arquitetura e Organização de Computadores**
 
+---
+
+### 🎓 Formação Acadêmica:
+
+- **Formado em** Técnico em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade CIMATEC
+- **Ensino Médio** Completo
+- **Atualmente Cursando** Engenharia de Software na Universidade Católica de Salvador (UCSAL)
+
+---
 
 Vamos nos conectar para compartilhar conhecimentos e crescer juntos! 🚀
-
