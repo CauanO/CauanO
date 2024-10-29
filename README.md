@@ -2,7 +2,7 @@
 
 Eu sou **Cauan**, um **Futuro Software Engineer** apaixonado por desafios e pelo aprendizado constante, com uma forte veia empreendedora. Sempre em busca de evolução e aprimoramento profissional para entregar soluções eficazes e inovadoras!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[seu-linkedin](https://br.linkedin.com/in/cauan-oliveira-935a48231?trk=people-guest_people_search-card))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/cauan-oliveira-935a48231?trk=people-guest_people_search-card)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauanO)
 
 ---
