@@ -1,6 +1,6 @@
 ## Olá! 👋 Seja bem-vindo ao meu perfil!
 
-Eu sou **Ebert**, um **Software Engineer** apaixonado por desafios e pelo aprendizado constante, com uma forte veia empreendedora. Sempre em busca de evolução e aprimoramento profissional para entregar soluções eficazes e inovadoras!
+Eu sou **Cauan**, um **Futuro Software Engineer** apaixonado por desafios e pelo aprendizado constante, com uma forte veia empreendedora. Sempre em busca de evolução e aprimoramento profissional para entregar soluções eficazes e inovadoras!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauanO)
@@ -29,9 +29,9 @@ Eu sou **Ebert**, um **Software Engineer** apaixonado por desafios e pelo aprend
 ### 📊 Status do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&hide_border=true" alt="Ebert's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ebert's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&theme=tokyonight&layout=compact&hide_border=true" alt="Ebert's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanO&theme=tokyonight&hide_border=true" alt="Ebert's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CauanO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Cauan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanO&theme=tokyonight&layout=compact&hide_border=true" alt="Cauan's Top Languages" />
 </div>
 
 ---
