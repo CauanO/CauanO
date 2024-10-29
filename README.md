@@ -39,6 +39,7 @@ Eu sou **Cauan**, um **Futuro Software Engineer** apaixonado por desafios e pelo
 ### 🌱 Atualmente Aprendendo:
 
 - **POO com Java**
+- **Inglês**
 - **Desenvolvimento de APIs Avançadas**
 - **Integração entre Banco de Dados e Back-end**
 - **Raciocínio Lógico**
