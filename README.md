@@ -29,7 +29,6 @@ Eu sou **Cauan**, estudante de Engenharia de Software e técnico certificado em 
 ### 📊 Status do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanO&theme=tokyonight&hide_border=true" alt="Cauan's Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=CauanO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Cauan's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanO&theme=tokyonight&layout=compact&hide_border=true" alt="Cauan's Top Languages" />
 </div>
