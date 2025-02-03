@@ -1,6 +1,6 @@
 ## Olá! 👋 Seja bem-vindo ao meu perfil!
 
-Eu sou **Cauan**, um **Futuro Software Engineer** apaixonado por desafios e pelo aprendizado constante, com uma forte veia empreendedora. Sempre em busca de evolução e aprimoramento profissional para entregar soluções eficazes e inovadoras!
+Eu sou **Cauan**, estudante de Engenharia de Software e técnico certificado em Análise e Desenvolvimento de Sistemas, atualmente adquirindo experiência em Computação de Alto Desempenho (HPC) no SENAI CIMATEC. Meu foco está na otimização de desempenho computacional, no suporte a projetos de pesquisa e desenvolvimento e na assistência à gestão de ambientes de computação avançada.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/cauan-oliveira-935a48231?trk=people-guest_people_search-card)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauanO)
