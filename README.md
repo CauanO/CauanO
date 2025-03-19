@@ -1,32 +1,32 @@
-## Olá! 👋 Seja bem-vindo ao meu perfil!
+## Hello! 👋 Wellcome!
 
-Eu sou **Cauan**, estudante de Engenharia de Software e técnico certificado em Análise e Desenvolvimento de Sistemas, atualmente adquirindo experiência em Computação de Alto Desempenho (HPC) no SENAI CIMATEC. Meu foco está na otimização de desempenho computacional, no suporte a projetos de pesquisa e desenvolvimento e na assistência à gestão de ambientes de computação avançada.
+I am a Software Engineering student and a certified Systems Analysis and Development Technician, currently gaining experience in High-Performance Computing (HPC) at SENAI CIMATEC. My focus is on optimizing computational performance, supporting research and development projects, and assisting in the management of advanced computing environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/cauan-oliveira-935a48231?trk=people-guest_people_search-card)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauanO)
 
 ---
 
-### 🚀 Sobre Mim:
+### 🚀 About me:
 
-- **Linguagens e Tecnologias**: Proficiência em **JavaScript**, **Node.js** e **Java**.
-- **Desenvolvimento de APIs**: Experiência robusta na construção de **APIs eficientes e escaláveis** para diferentes necessidades.
-- **Banco de Dados**: Domínio em **MongoDB** e **MySQL** para gerenciamento e estruturação de dados.
-- **Desenvolvimento Full Stack**: Conhecimento em **front-end** e **back-end**, com uma visão abrangente de todo o fluxo de desenvolvimento.
-- **Controle de Versionamento**: Familiaridade com **Git** e **GitHub** para um gerenciamento de código eficaz.
+- **Languages  e Technologies**: Proficiency in **JavaScript**, **Node.js** e **Java**.
+- **API Development**: Extensive experience in building **efficient and scalable APIs** for various needs.
+- **Databases**: Expertise in **MongoDB** and **MySQL** for data management and structuring.
+- **Full Stack Development**: Knowledge in **front-end** and **back-end**, with a comprehensive understanding of the entire development flow.
+- **Version Control**: Familiarity with **Git** and **GitHub** for effective code management.
   
 ---
 
-### 🌟 Habilidades Pessoais:
+### 🌟 Personal Skills:
 
-- **Colaboração em Equipe**: Habilidade para colaborar com equipes de desenvolvimento e encontrar soluções de negócio inovadoras.
-- **Comunicação e Interação**: Excelentes habilidades de comunicação e facilidade para falar em público, sendo um facilitador em projetos colaborativos.
-- **Liderança e Trabalho em Equipe**: Capacidade de mobilizar recursos e pessoas para alcançar objetivos compartilhados.
-- **Execução e Instrução**: Competência para entender e executar tarefas com precisão, além de transmitir instruções de maneira clara e direta.
+- **Team Collaboration**: Ability to collaborate with development teams and find innovative business solutions.
+- **Communication and Interaction**: Excellent communication skills and ease in public speaking, acting as a facilitator in collaborative projects.
+- **Leadership and Teamwork**: Ability to mobilize resources and people to achieve shared goals.
+- **Execution and Instruction**: Competence in understanding and executing tasks with precision, as well as providing clear and direct instructions.
 
 ---
 
-### 📊 Status do GitHub:
+### 📊 Status at GitHub:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CauanO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Cauan's Stats" />
@@ -37,22 +37,18 @@ Eu sou **Cauan**, estudante de Engenharia de Software e técnico certificado em 
 
 ### 🌱 Atualmente Aprendendo:
 
-- **POO com Java**
-- **Inglês**
-- **Desenvolvimento de APIs Avançadas**
-- **Integração entre Banco de Dados e Back-end**
-- **Raciocínio Lógico**
-- **Engenharia de Software**
-- **Arquitetura e Organização de Computadores**
+- **English**
+- **Advanced API Development**
+- **Database and Back-end Integration**
+- **Software Engineering**
+- **HPC**
+- **Computer Architecture and Organization**
 
 ---
 
-### 🎓 Formação Acadêmica:
+### 🎓 Academic Background:
 
-- **Formado em** Técnico em Análise e Desenvolvimento de Sistemas (ADS) pela Universidade CIMATEC
-- **Ensino Médio** Completo
-- **Atualmente Cursando** Engenharia de Software na Universidade Católica de Salvador (UCSAL)
-
----
-
-Vamos nos conectar para compartilhar conhecimentos e crescer juntos! 🚀
+- **Graduated in** Systems Analysis and Development (SAD) from CIMATEC University
+- **High School** Completed
+- **Currently Enrolled in** Software Engineering at the Catholic University of Salvador (UCSAL)
+- **Internship in** High-Performance Computing (HPC) at SENAI CIMATEC
