@@ -9,7 +9,7 @@ I am a Software Engineering student and a certified Systems Analysis and Develop
 
 ### 🚀 About me:
 
-- **Languages  e Technologies**: Proficiency in **JavaScript**, **Node.js** e **Java**.
+- **Languages  e Technologies**: Proficiency in **Python**, **Flask** e **MySQL**.
 - **API Development**: Extensive experience in building **efficient and scalable APIs** for various needs.
 - **Databases**: Expertise in **MongoDB** and **MySQL** for data management and structuring.
 - **Full Stack Development**: Knowledge in **front-end** and **back-end**, with a comprehensive understanding of the entire development flow.
@@ -32,17 +32,6 @@ I am a Software Engineering student and a certified Systems Analysis and Develop
   <img src="https://github-readme-stats.vercel.app/api?username=CauanO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Cauan's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanO&theme=tokyonight&layout=compact&hide_border=true" alt="Cauan's Top Languages" />
 </div>
-
----
-
-### 🌱 Atualmente Aprendendo:
-
-- **English**
-- **Advanced API Development**
-- **Database and Back-end Integration**
-- **Software Engineering**
-- **HPC**
-- **Computer Architecture and Organization**
 
 ---
 
